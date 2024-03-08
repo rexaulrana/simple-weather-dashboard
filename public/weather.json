@@ -1,0 +1,182 @@
+{
+    "city": "Dhaka",
+    "country": "BD",
+    "timezone": 21600,
+    "daily": [
+        {
+            "day": "Sunday",
+            "date": "2024-03-05",
+            "temperature": {
+                "min": 22,
+                "max": 28
+            },
+            "weather": {
+                "description": "Partly cloudy",
+                "icon": "02d"
+            },
+            "uv_index": 5,
+            "wind": {
+                "speed": 4.0,
+                "direction": "SE"
+            },
+            "sunrise": "06:15 AM",
+            "sunset": "06:30 PM",
+            "humidity": 70,
+            "visibility": 8,
+            "air_quality": {
+                "index": 40,
+                "level": "Poor"
+            }
+        },
+        {
+            "day": "Monday",
+            "date": "2024-03-06",
+            "temperature": {
+                "min": 24,
+                "max": 30
+            },
+            "weather": {
+                "description": "Clear sky",
+                "icon": "01d"
+            },
+            "uv_index": 7,
+            "wind": {
+                "speed": 5.5,
+                "direction": "N"
+            },
+            "sunrise": "06:13 AM",
+            "sunset": "06:32 PM",
+            "humidity": 55,
+            "visibility": 12,
+            "air_quality": {
+                "index": 22,
+                "level": "Good"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "date": "2024-03-07",
+            "temperature": {
+                "min": 21,
+                "max": 26
+            },
+            "weather": {
+                "description": "Rainy",
+                "icon": "10d"
+            },
+            "uv_index": 4,
+            "wind": {
+                "speed": 4.5,
+                "direction": "S"
+            },
+            "sunrise": "06:11 AM",
+            "sunset": "06:34 PM",
+            "humidity": 80,
+            "visibility": 6,
+            "air_quality": {
+                "index": 35,
+                "level": "Fair"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "date": "2024-03-08",
+            "temperature": {
+                "min": 23,
+                "max": 29
+            },
+            "weather": {
+                "description": "Cloudy",
+                "icon": "04d"
+            },
+            "uv_index": 3,
+            "wind": {
+                "speed": 3.0,
+                "direction": "W"
+            },
+            "sunrise": "06:09 AM",
+            "sunset": "06:36 PM",
+            "humidity": 65,
+            "visibility": 10,
+            "air_quality": {
+                "index": 28,
+                "level": "Moderate"
+            }
+        },
+        {
+            "day": "Thursday",
+            "date": "2024-03-09",
+            "temperature": {
+                "min": 20,
+                "max": 25
+            },
+            "weather": {
+                "description": "Sunny",
+                "icon": "01d"
+            },
+            "uv_index": 6,
+            "wind": {
+                "speed": 4.2,
+                "direction": "E"
+            },
+            "sunrise": "06:07 AM",
+            "sunset": "06:38 PM",
+            "humidity": 50,
+            "visibility": 15,
+            "air_quality": {
+                "index": 30,
+                "level": "Good"
+            }
+        },
+        {
+            "day": "Friday",
+            "date": "2024-03-10",
+            "temperature": {
+                "min": 26,
+                "max": 32
+            },
+            "weather": {
+                "description": "Partly cloudy",
+                "icon": "02d"
+            },
+            "uv_index": 5,
+            "wind": {
+                "speed": 4.8,
+                "direction": "SE"
+            },
+            "sunrise": "06:05 AM",
+            "sunset": "06:40 PM",
+            "humidity": 60,
+            "visibility": 8,
+            "air_quality": {
+                "index": 25,
+                "level": "Good"
+            }
+        },
+        {
+            "day": "Saturday",
+            "date": "2024-03-11",
+            "temperature": {
+                "min": 22,
+                "max": 27
+            },
+            "weather": {
+                "description": "Rainy",
+                "icon": "10d"
+            },
+            "uv_index": 4,
+            "wind": {
+                "speed": 3.5,
+                "direction": "NE"
+            },
+            "sunrise": "06:03 AM",
+            "sunset": "06:42 PM",
+            "humidity": 75,
+            "visibility": 10,
+            "air_quality": {
+                "index": 33,
+                "level": "Fair"
+            }
+        }
+    ]
+}

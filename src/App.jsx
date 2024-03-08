@@ -1,6 +1,7 @@
 import Profile from "./components/Profile";
 import SearchBar from "./components/SearchBar";
 import Tabs from "./components/Tabs";
+import WeeklyBoard from "./components/WeeklyBoard";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       <div> <SearchBar></SearchBar> </div>
       <div><Tabs></Tabs></div>
       <div><Profile></Profile></div>
-    </div>
+      </div>
+      <WeeklyBoard></WeeklyBoard>
    </div>
   );
 }
